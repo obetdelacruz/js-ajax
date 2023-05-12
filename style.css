@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.quote-container {
+  height: 600px;
+  width: 500px;
+  background-color: aquamarine;
+  box-sizing: border-box;
+  margin: 100px;
+  padding: 50px;
+}
+
+.quote-container h1 {
+  margin: 8px;
+  padding: 5px;
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+
+.quote-container p {
+  margin: 8px;
+  padding: 5px;
+  text-align: center;
+  font-style: italic;
+  font-size: 25px;
+}
